@@ -3,7 +3,7 @@
     "type": "getNetworkClients",
     "start_date": "2023-05-12T18:32:50Z",
     "end_date": "2023-05-13T18:32:50Z",
-    "soar_container_id", 92,
+    "soar_container_id": 92,
     "match": "any",
     "conditions": [
       {"key": "mac", "value": "26:f5:a2:3c:e4:70"},
