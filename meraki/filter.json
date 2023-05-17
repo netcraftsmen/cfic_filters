@@ -6,7 +6,7 @@
     "frequency": 3600,
     "soar": {
         "container_id": 93,
-        "host":, "ec2-34-239-107-76.compute-1.amazonaws.com"
+        "host": "ec2-34-239-107-76.compute-1.amazonaws.com"
     },
     "match": "any",
     "conditions": [
