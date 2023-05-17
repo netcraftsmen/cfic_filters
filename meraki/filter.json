@@ -3,7 +3,11 @@
     "type": "getNetworkClients",
     "start_date": "2023-05-12T18:32:50Z",
     "end_date": "2023-05-13T18:32:50Z",
-    "soar_container_id": 93,
+    "frequency": 3600,
+    "soar": {
+        "container_id": 93,
+        "host":, "ec2-34-239-107-76.compute-1.amazonaws.com"
+    },
     "match": "any",
     "conditions": [
       {"key": "mac", "value": "26:f5:a2:3c:e4:70"},
