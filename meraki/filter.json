@@ -11,6 +11,7 @@
     "match": "any",
     "conditions": [
       {"key": "mac", "value": "26:f5:a2:3c:e4:70"},
+      {"key": "ip6", "value": "fe80:0:0:0:102f:90ef:464:d792"},
       {"key": "os", "value": "PlayStation 4"}
     ]
 }
