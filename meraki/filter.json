@@ -5,7 +5,7 @@
     "end_date": "2023-05-13T18:32:50Z",
     "frequency": 3600,
     "soar": {
-        "container_id": 93,
+        "container_id": 95,
         "host": "ec2-34-239-107-76.compute-1.amazonaws.com"
     },
     "match": "any",
